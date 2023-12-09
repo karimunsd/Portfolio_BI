@@ -1,4 +1,8 @@
-Khizarey Taj's Resume
+[Khizarey Taj's Resume]
+
+
+
+
 This repository contains an HTML file representing the resume of Khizarey Taj. The resume is structured into sections, providing details about Khizarey's personal information, education, work experience, skills, awards, publications, projects, interests, and contact information.
 
 File Structure
