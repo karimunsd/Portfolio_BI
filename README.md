@@ -30,10 +30,7 @@ An image of Khizarey Taj is included using the <img> tag, sourced from a local f
 Usage
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/resume-portfolio.git
-Modify the content:
+
 
 Update the individual HTML files (personal_information.html, education.html, etc.) with Khizarey Taj's specific details.
 Customize the links and content within each file accordingly.
